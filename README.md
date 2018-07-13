@@ -1,2 +1,2 @@
 # MarketPlace
-A basic admin panel and website of a markteplace using Laravel.
+A basic admin panel and website of a marketplace using Laravel.
